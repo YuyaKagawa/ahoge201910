@@ -1,6 +1,7 @@
 // 最初に画像を読み込み、表示
 $(document).ready(function () {
     c = document.getElementById("canvas"); // canvasの要素取得
+    alert(c);
     ctx = c.getContext("2d") // canvasに描画できるように
 
     ctx.fillStyle = "red"; // 色は赤
