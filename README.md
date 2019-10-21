@@ -7,4 +7,4 @@
 作品リンク: https://yuyakagawa.github.io/ahoge201910/
 
 プレビュー: 
-![preview](あとで)
+![preview](https://user-images.githubusercontent.com/44108072/67183340-2a73bb00-f41c-11e9-86c8-9d86d49dde43.gif)
