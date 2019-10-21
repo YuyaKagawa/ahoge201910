@@ -58,7 +58,7 @@ function draw(bc) {
                     ctx.drawImage(imgArray[i], lpos1, lpos2, imgach * 1.6, imgach); // (165,264), 1.6:1
                 };
                 break;
-        }
+        };
     };
 };
 
