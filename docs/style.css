@@ -1,8 +1,6 @@
-body{
-    /* margin-right: auto; */
-    /* margin-left : auto; */
-    text-align: center;
+body{ /* bodyの部分 */
+    text-align: center; /* 中央揃え */
 }
-footer{
-    text-align: left;
+footer{ /* footerの部分 */
+    text-align: left; /* 左揃え */
 }
